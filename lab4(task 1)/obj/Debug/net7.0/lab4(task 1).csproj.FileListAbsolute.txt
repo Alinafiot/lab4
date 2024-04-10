@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).AssemblyInfo.cs
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lab4(task 1)\bin\Debug\net7.0\lab4(task 1).exe
+C:\Users\admin\source\repos\lab4(task 1)\bin\Debug\net7.0\lab4(task 1).deps.json
+C:\Users\admin\source\repos\lab4(task 1)\bin\Debug\net7.0\lab4(task 1).runtimeconfig.json
+C:\Users\admin\source\repos\lab4(task 1)\bin\Debug\net7.0\lab4(task 1).dll
+C:\Users\admin\source\repos\lab4(task 1)\bin\Debug\net7.0\lab4(task 1).pdb
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).dll
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\refint\lab4(task 1).dll
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).pdb
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\lab4(task 1).genruntimeconfig.cache
+C:\Users\admin\source\repos\lab4(task 1)\obj\Debug\net7.0\ref\lab4(task 1).dll
